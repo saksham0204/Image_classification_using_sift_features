@@ -1,1 +1,1 @@
-# Image_classifiication_using-_sift_features
+# Image_classifiication_using_sift_features
